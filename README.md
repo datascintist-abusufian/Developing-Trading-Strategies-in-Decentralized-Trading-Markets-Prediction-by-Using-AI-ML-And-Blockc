@@ -7,8 +7,8 @@
 
 
 
-Dataset Documentation:
- for 
+DATASET DOCUMENTATION:
+
 "Developing Trading Strategies in Decentralized Trading Markets Prediction by Using AI, ML And Blockchain Technology"
 
 
